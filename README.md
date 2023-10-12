@@ -12,6 +12,7 @@
 
 ```bash
 pip install opencv-python-headless numpy
+```
 
 **如何使用**
 
