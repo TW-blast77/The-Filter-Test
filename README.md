@@ -32,19 +32,19 @@ python filter_images.py
 處理後的圖像將保存在./photo/output-photo/Mean-photo和./photo/output-photo/Meadian-photo目錄下。
 
 **文件說明**
-add_noise.py：添加隨機噪音到圖像並保存。
-filter_images.py：使用均值濾鏡和中值濾鏡處理圖像。
-./photo/origin-photo/Lenna.png：原始圖像文件。
-./photo/output-photo/noise-photo：用於存儲噪音圖像的目錄。
-./photo/output-photo/Mean-photo：用於存儲均值濾鏡後圖像的目錄。
-./photo/output-photo/Meadian-photo：用於存儲中值濾鏡後圖像的目錄。
+add_noise.py：添加隨機噪音到圖像並保存。  
+filter_images.py：使用均值濾鏡和中值濾鏡處理圖像。  
+./photo/origin-photo/Lenna.png：原始圖像文件。  
+./photo/output-photo/noise-photo：用於存儲噪音圖像的目錄。  
+./photo/output-photo/Mean-photo：用於存儲均值濾鏡後圖像的目錄。  
+./photo/output-photo/Meadian-photo：用於存儲中值濾鏡後圖像的目錄。  
 
 **注意事項**
 
-請確保已經準備好原始圖像，並且相關目錄已經建立。
-你可以根據需要調整濾鏡的參數，例如k值，以控制濾鏡的大小。
-在運行代碼前，確保已安裝所需的Python庫。
-如果你有任何問題或疑問，歡迎隨時聯絡我。
-
-
-請根據實際情況調整文件路徑和其他細節。這個README文件將提供有關你的代碼如何運作和如何運行的重要信息。
+請確保已經準備好原始圖像，並且相關目錄已經建立。  
+你可以根據需要調整濾鏡的參數，例如k值，以控制濾鏡的大小。  
+在運行代碼前，確保已安裝所需的Python庫。  
+如果你有任何問題或疑問，歡迎隨時聯絡我。  
+  
+  
+請根據實際情況調整文件路徑和其他細節。這個README文件將提供有關你的代碼如何運作和如何運行的重要信息。  
