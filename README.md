@@ -22,10 +22,12 @@ pip install opencv-python-headless numpy
 
 ```bash
 python add_noise.py
+```
 
 運行filter_images.py來應用均值濾鏡和中值濾鏡：
 ```bash
 python filter_images.py
+```
 
 處理後的圖像將保存在./photo/output-photo/Mean-photo和./photo/output-photo/Meadian-photo目錄下。
 
